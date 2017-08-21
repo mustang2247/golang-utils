@@ -7,7 +7,7 @@ package message
 import (
 	"net"
 	"fmt"
-	"utils/logutil"
+	"github.com/mustang2247/golang-utils/utils/logutil"
 	"time"
 )
 
